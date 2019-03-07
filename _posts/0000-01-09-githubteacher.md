@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-This is comedy gold. 
+Why?
 
-![minertocat](https://octodex.github.com/images/minertocat.png)
+![surprise photo](../assets/IMG_0391.jpg)
 {: .center}
