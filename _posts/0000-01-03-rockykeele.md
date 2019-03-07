@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Rocky's Devil slide deck!"
 ---
 
-Caption here
+Rocky's Devil Caption
 
 ![defunktocat](https://octodex.github.com/images/defunktocat.png)
 {: .center}
